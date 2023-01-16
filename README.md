@@ -29,5 +29,8 @@ https://user-images.githubusercontent.com/105675970/212650629-ead8a782-eda9-4374
 # Developers 👩🏻‍💻
 
 Noura Faisal Althemali
+
 Hanan Aldalbahi
+
+notes : Home page and other features will be added soon!
 
